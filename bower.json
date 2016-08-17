@@ -1,0 +1,17 @@
+{
+  "name": "ted.js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "s-kawabata <shingo.kawabata@f-scratch.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ksnabehormone/ted.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
